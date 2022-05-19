@@ -1,4 +1,7 @@
 # oop-snake
+
+This is a project from the OOP class COMP130135.04 in Fudan Univ.
+
 Initial version: https://github.com/jhpy1024/sfSnake
 
 I added the following features:
@@ -9,8 +12,6 @@ I added the following features:
 - Different sounds for different events.
 - Changing background color, opening grid, and changing grid color.
 - An option interface to change the settings. 
-
-A project from the OOP class COMP130135.04 in Fudan Univ.
 
 You can just download the codes and run main.exe to immediately play it.
 
