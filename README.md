@@ -7,7 +7,7 @@ I added the following features:
 - Moving in 360 degrees, with your cursor! You can either control it by clicking, or holding the left button of your mouse.
 - Multiple fruits to obtain at once, and they offer different bonuses.
 - Changing background color, opening grid, and changing grid color.
-- 
+- An option interface to change the settings. 
 
 A project from the OOP class COMP130135.04 in Fudan Univ.
 
