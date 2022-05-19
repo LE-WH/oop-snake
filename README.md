@@ -6,6 +6,7 @@ I added the following features:
 - Cool snake appearance
 - Moving in 360 degrees, with your cursor! You can either control it by clicking, or holding the left button of your mouse.
 - Multiple fruits to obtain at once, and they offer different bonuses.
+- Different sounds for different events.
 - Changing background color, opening grid, and changing grid color.
 - An option interface to change the settings. 
 
